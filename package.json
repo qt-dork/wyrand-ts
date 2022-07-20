@@ -1,0 +1,15 @@
+{
+  "name": "wyrand-ts",
+  "version": "1.0.0",
+  "description": "A fast 64-bit random number generator written in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evie Finch",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@size-limit/preset-small-lib": "^7.0.8"
+  }
+}
